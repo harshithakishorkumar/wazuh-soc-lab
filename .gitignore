@@ -222,3 +222,4 @@ config/wazuh_indexer_ssl_certs/
 config/wazuh_indexer_ssl_certs/
 soc-lab/
 data/alerts.duckdb
+.env
